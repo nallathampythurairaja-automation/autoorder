@@ -25,4 +25,4 @@ jobs:
 
       - name: Run Python file
         run: |
-          python your_script_name.py
+          python login_atrad.py
